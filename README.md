@@ -19,7 +19,7 @@ I'm **Arjun**, a web developer based in India. I breath JavaScript and I think i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunGTX&theme=tokyonight)
 
-## 🔗 Connect Me
+## 🔗 Social Media
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjundev.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunvc
 )
