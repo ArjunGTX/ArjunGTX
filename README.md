@@ -12,7 +12,7 @@
 
 I'm **Arjun**, a passionate Frontend Developer based in India. I bring UI designs to life. I'm a huge fan of JavaScript and I enjoy diving deep into it's core concepts. I love to build Web Applications with rich UIs and Features using React.
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="390" height="250" /> 
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" /> 
 
 Do you have a idea in mind? I will be happy to collaborate. Reach me at [arjunatpavilion@gmail.com](mailto:arjunatpavilion@gmail.com).
 
