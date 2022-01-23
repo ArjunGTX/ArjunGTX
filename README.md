@@ -1,27 +1,47 @@
 
-## 👋 Hi There 
-I'm **Arjun**, a web developer based in India. I breath JavaScript and I think in React. Building smooth, interactive and visually appealing UI is my ultimate goal and I am achieving it one component at a time.
+## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/im_arjunvc">
+  <img align="left" alt="ArjunGTX | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arjunvc/">
+  <img align="left" alt="Arjun's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.gg/847066366276009984t">
+  <img align="left" alt="Abhishek's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a><br><br>
 
-## 🛠 Skills
-- ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26)
-- ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4 )
-- ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=cd6799)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=black)
-- ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=0868AC&labelColor=131B28)
-- ![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=D3D3D3)
-- ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F1502F)
-- ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
-- ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=D3D3D3)
+I'm **Arjun**, a passionate Frontend Developer based in India. I bring UI designs to life. I'm a huge fan of JavaScript and I enjoy diving deep into it's core concepts. I love to build Web Applications with rich UIs and Features using React.
+
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="320" /> 
+
+Do you have a idea in mind? I will be happy to collaborate. Reach me at [arjunatpavilion@gmail.com](mailto:arjunatpavilion@gmail.com).
+
+#### I'm Currently 
+- Practicing Frontend Development at [neoG Camp](https://neog.camp/), an aswesome community of 800+ Web Development Aspirants.
+- Learning advanced and professional stuff from experienced Mentors. 
+- Building Portfolio projects.
+- Huslting and improving.
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunGTX&theme=tokyonight)
+#### I'm Familiar With 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 
-## 🔗 Social Media
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arjundev.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunvc
-)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_arjunvc)
+
+
+#### My Github Stats
+
+[![ArjunGTX](https://github-readme-stats.vercel.app/api?username=ArjunGTX&count_private=true&show_icons=true&theme=github_dark)](https://github.com/ArjunGTX/github-readme-stats)
+
+
+
+
 
 
