@@ -16,12 +16,14 @@ I'm **Arjun**, a passionate Frontend Developer based in India. I bring UI design
 
 Do you have a idea in mind? I will be happy to collaborate. Reach me at [arjunatpavilion@gmail.com](mailto:arjunatpavilion@gmail.com).
 
-#### I'm Currently 
-- Practicing Frontend Development at [neoG Camp](https://neog.camp/), an aswesome community of 800+ Web Development Aspirants.
+#### I'm Currently
+- Working as Frontend Developer at [Vicara](https://www.linkedin.com/company/vicara-hq).
+- Building the Frontend for [Patr](https://patr.cloud/).
+- Practicing FullStack Development at [neoG Camp](https://neog.camp/).
 - Learning advanced and professional stuff from experienced Mentors. 
 - Building Portfolio projects.
-- Huslting and improving.
-
+- Improving Code quality day by day.
+- Exploring new Technologies.
 
 
 
@@ -29,7 +31,8 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [arjunat
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
